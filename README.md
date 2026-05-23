@@ -1,17 +1,17 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/GalibDev/GalibDev/refs/heads/main/banner.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/GalibDev/GalibDev/refs/heads/main/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mirza Galib Palash</h1>
-<h3 align="center">Full Stack MERN Developer from Dhaka, Bangladesh</h3>
+<h3 align="center">Full Stack MERN Developer | React • Next.js • Node.js • MongoDB</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate MERN Stack Developer focused on building modern, responsive, and user-friendly web applications.
+I am a passionate MERN Stack Developer from Dhaka, Bangladesh.
 
-I enjoy working with React.js, Next.js, Node.js, Express.js, MongoDB, Firebase, and Tailwind CSS.
+I enjoy building modern, responsive, and user-friendly web applications using React.js, Next.js, Node.js, Express.js, MongoDB, Firebase, and Tailwind CSS.
 
 ---
 
@@ -28,7 +28,7 @@ I enjoy working with React.js, Next.js, Node.js, Express.js, MongoDB, Firebase, 
 ## 🚀 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" alt="Skills" />
 </p>
 
 ---
@@ -37,10 +37,10 @@ I enjoy working with React.js, Next.js, Node.js, Express.js, MongoDB, Firebase, 
 
 <p align="left">
   <a href="https://linkedin.com/in/md-mirza-galib-palash" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://github.com/GalibDev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
 </p>
 
@@ -48,16 +48,8 @@ I enjoy working with React.js, Next.js, Node.js, Express.js, MongoDB, Firebase, 
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GalibDev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalibDev&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=GalibDev&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GalibDev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
