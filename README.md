@@ -1,90 +1,141 @@
 <p align="center">
   <a href="https://mirzagalib.xyz">
-    <img width="100%" src="https://raw.githubusercontent.com/GalibDev/GalibDev/refs/heads/main/banner.png" alt="MD Mirza Galib Palash - Mirza Galib - MERN Stack Developer in Dhaka Bangladesh" />
+    <img width="100%" src="https://raw.githubusercontent.com/GalibDev/GalibDev/refs/heads/main/banner.png" alt="MD Mirza Galib Palash — Full Stack Developer" />
   </a>
 </p>
 
-# MD Mirza Galib Palash | Mirza Galib
+<h1 align="center">Hi, I'm MD Mirza Galib Palash 👋</h1>
 
-I am **MD Mirza Galib Palash**, also known as **Mirza Galib**, a **MERN Stack Developer** and **Full Stack Web Developer** from Dhaka, Bangladesh.
+<p align="center">
+  <strong>Full Stack Developer • TypeScript Enthusiast • AI & Robotics Builder</strong>
+</p>
 
-I build modern, responsive, and user-friendly web applications with **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, **MongoDB**, **Supabase**, and **Tailwind CSS**.
+<p align="center">
+  I build modern, responsive, and production-focused web applications using React, Next.js, TypeScript, Node.js, MongoDB, Supabase, and Tailwind CSS.
+</p>
 
-- Portfolio: [mirzagalib.xyz](https://mirzagalib.xyz)
-- LinkedIn: [md-mirza-galib-palash](https://www.linkedin.com/in/md-mirza-galib-palash)
-- GitHub: [GalibDev](https://github.com/GalibDev)
-- Email: [mirza.galib.palash@gmail.com](mailto:mirza.galib.palash@gmail.com)
-- Location: Dhaka, Bangladesh
+<p align="center">
+  <a href="https://mirzagalib.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md-mirza-galib-palash"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mirza.galib.palash@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
 
 ## About Me
 
-I focus on building clean, scalable, and performance-friendly web applications for real users. My work includes portfolio websites, dashboards, e-commerce interfaces, startup platforms, API integrations, and full stack project workflows.
-
-Searchable professional identity:
-
-- MD Mirza Galib Palash
-- Mirza Galib Palash
-- Mirza Galib
-- GalibDev
-- MERN Stack Developer in Dhaka
-- Full Stack Developer in Bangladesh
-- React Developer
-- Next.js Developer
-- Node.js Developer
+- 🎓 Computer Science and Engineering student
+- 💻 Building full-stack applications with clean architecture and polished UI
+- 🤖 Interested in AI-powered products, robotics, and practical automation
+- 🌱 Currently improving backend engineering, authentication, APIs, and scalable deployment
+- 📍 Based in Dhaka, Bangladesh
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,supabase,firebase,tailwind,git,github,vscode" alt="HTML CSS JavaScript TypeScript React Next.js Node.js Express MongoDB Supabase Firebase Tailwind CSS Git GitHub VS Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,supabase,firebase,tailwind,git,github,vscode,figma,vercel" alt="Technology stack" />
 </p>
-
-## Current Focus
-
-- Building production-ready Next.js applications
-- Improving full stack MERN development skills
-- Creating responsive and polished UI/UX experiences
-- Working with Supabase, MongoDB, authentication, dashboards, and APIs
-- Publishing portfolio projects with strong SEO and clean documentation
 
 ## Featured Projects
 
-### Portfolio Website
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Official portfolio website of MD Mirza Galib Palash, built with Next.js, React, TypeScript, Tailwind CSS, Supabase, and SEO-friendly structured data.
+### 🤖 [GATRIX](https://github.com/GalibDev/gatrix)
 
-- Live: [mirzagalib.xyz](https://mirzagalib.xyz)
-- Repository: [mirzagalib-portfolio](https://github.com/GalibDev/mirzagalib-portfolio)
+Official digital platform for a robotics group, featuring projects, team members, achievements, galleries, notices, AI FAQs, and a content-management dashboard.
 
-### IdeaVault
+**Stack:** React, Vite, Tailwind CSS, Supabase  
+**Live:** [gatrix.xyz](https://gatrix.xyz)
 
-A modern idea management web app where users can save, organize, and manage project ideas in one place.
+</td>
+<td width="50%" valign="top">
 
-- Repository: [idea-vault-client](https://github.com/GalibDev/idea-vault-client)
+### 🛍️ [NOVALO](https://github.com/GalibDev/jersey-shop-client)
 
-### GitHub Issues Tracker
+A modern fashion and jersey e-commerce platform with product browsing, categories, cart functionality, offers, notices, order management, and an admin dashboard.
 
-A GitHub Issues Tracker web application for searching repositories, viewing issue details, and filtering issues using the GitHub API.
+**Stack:** Next.js, TypeScript, Tailwind CSS, Supabase  
+**Live:** [novalo.xyz](https://www.novalo.xyz)
 
-- Live: [galibdev.github.io/github-issue-tracker](https://galibdev.github.io/github-issue-tracker)
-- Repository: [github-issue-tracker](https://github.com/GalibDev/github-issue-tracker)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### GATRIX
+### 🧠 [IntelliHub AI](https://github.com/GalibDev/intellihub-ai)
 
-A modern robotics group showcase website with project highlights, team sections, achievements, gallery content, multilingual support, and responsive UI.
+An AI-focused productivity platform designed around intelligent tools, streamlined workflows, and a modern user experience.
 
-- Live: [gatrix.xyz](https://gatrix.xyz)
+**Stack:** TypeScript, modern web technologies
 
-## GitHub Stats
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ [RecipeHub](https://github.com/GalibDev/recipehub-client)
+
+A full-stack recipe-sharing community with authentication, recipe CRUD, favorites, premium purchases, reports, moderation tools, and an admin dashboard.
+
+**Stack:** Next.js, TypeScript, MongoDB, Better Auth, Stripe  
+**Live:** [recipehub-client-seven.vercel.app](https://recipehub-client-seven.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ [FlightOps Client](https://github.com/GalibDev/flightops-client)
+
+An airline agency management platform for handling passenger records, payments, due tracking, profits, flight information, and operational dashboards.
+
+**Frontend:** [flightops-client](https://github.com/GalibDev/flightops-client)  
+**Server:** [flightops-server](https://github.com/GalibDev/flightops-server)  
+**Live:** [flightops-client.vercel.app](https://flightops-client.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Personal Portfolio](https://mirzagalib.xyz)
+
+My personal portfolio highlighting selected work, technical skills, experience, and contact information in a responsive, SEO-friendly interface.
+
+**Live:** [mirzagalib.xyz](https://mirzagalib.xyz)
+
+</td>
+</tr>
+</table>
+
+## Current Focus
+
+```text
+Building production-ready Next.js applications
+Designing responsive and accessible user interfaces
+Developing secure APIs, authentication, and dashboards
+Exploring AI agents and practical automation
+Publishing well-documented, deployment-ready projects
+```
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GalibDev&theme=tokyonight" alt="GalibDev GitHub streak stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GalibDev&show_icons=true&hide_border=true&theme=tokyonight" alt="GalibDev GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalibDev&layout=compact&hide_border=true&theme=tokyonight" alt="GalibDev top languages" />
 </p>
 
-## Contact
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GalibDev&theme=tokyonight&hide_border=true" alt="GalibDev contribution streak" />
+</p>
 
-If you are looking for a MERN Stack Developer, React Developer, Next.js Developer, or full stack web developer in Bangladesh, you can contact me through my portfolio or LinkedIn.
+## Connect With Me
 
-- Website: [https://mirzagalib.xyz](https://mirzagalib.xyz)
-- LinkedIn: [https://www.linkedin.com/in/md-mirza-galib-palash](https://www.linkedin.com/in/md-mirza-galib-palash)
-- GitHub: [https://github.com/GalibDev](https://github.com/GalibDev)
-- Email: [mirza.galib.palash@gmail.com](mailto:mirza.galib.palash@gmail.com)
+- 🌐 Website: [mirzagalib.xyz](https://mirzagalib.xyz)
+- 💼 LinkedIn: [md-mirza-galib-palash](https://www.linkedin.com/in/md-mirza-galib-palash)
+- 💻 GitHub: [GalibDev](https://github.com/GalibDev)
+- 📧 Email: [mirza.galib.palash@gmail.com](mailto:mirza.galib.palash@gmail.com)
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile. Let's build something meaningful.</strong>
+</p>
