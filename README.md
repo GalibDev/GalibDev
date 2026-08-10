@@ -119,8 +119,8 @@ Publishing well-documented, deployment-ready projects
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GalibDev&show_icons=true&hide_border=true&theme=tokyonight" alt="GalibDev GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalibDev&layout=compact&hide_border=true&theme=tokyonight" alt="GalibDev top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GalibDev&theme=tokyonight" alt="GalibDev GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GalibDev&theme=tokyonight" alt="GalibDev top languages" />
 </p>
 
 <p align="center">
