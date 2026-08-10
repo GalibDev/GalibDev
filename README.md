@@ -127,6 +127,14 @@ Publishing well-documented, deployment-ready projects
   <img width="70%" src="https://streak-stats.demolab.com?user=GalibDev&theme=tokyonight&hide_border=true" alt="GalibDev contribution streak" />
 </p>
 
+### Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/GalibDev">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GalibDev&theme=tokyo-night&hide_border=true&area=true" alt="GalibDev contribution activity graph" />
+  </a>
+</p>
+
 ## Contribution Snake
 
 <p align="center">
