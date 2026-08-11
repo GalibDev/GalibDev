@@ -123,6 +123,10 @@ Publishing well-documented, deployment-ready projects
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GalibDev&theme=tokyonight" alt="GalibDev top languages" />
 </p>
 
+<p align="center">
+  <img width="70%" src="./profile/streak.svg" alt="GalibDev contribution streak" />
+</p>
+
 ### Contribution Activity Graph
 
 <p align="center">
